@@ -1,0 +1,10 @@
+como criar frontend
+
+npm create vite@latest .
+y
+Framework: react
+Variant: javascript
+npm install
+npm run dev
+
+depois disso, copiar o arquivo gitignore e colar na pasta backend

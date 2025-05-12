@@ -1,0 +1,9 @@
+criar estrutura backend
+
+terminal bash dentro da pasta backend
+
+npm init -y
+npm install express cors
+npm install nodemon
+
+touch server.js
